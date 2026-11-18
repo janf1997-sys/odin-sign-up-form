@@ -2,7 +2,7 @@
 
 A responsive and accessible sign-up form interface built with modern semantic HTML5 and CSS. This project focuses on UI layout precision, client-side form controls, custom form validation states, and self-hosted variable font performance.
 
-Part of **The Odin Project** (Intermediate HTML and CSS Course).
+Part of [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) (Intermediate HTML and CSS Course).
 
 ---
 
@@ -74,5 +74,5 @@ odin-sign-up-form/
 
 ## 📄 License
 
-- Code: [MIT License](LICENSE)
+- Code: [MIT License](https://opensource.org/licenses/MIT)
 - Fonts: Distributed under the [SIL Open Font License (OFL)](http://scripts.sil.org/OFL
